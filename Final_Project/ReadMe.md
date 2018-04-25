@@ -1,7 +1,7 @@
 ## C++ Final Project
 
 
-1. Use liburl to retrieve historical price data from Yahoo Finance: A function retrieves teh adjusted close prices for selected S&P 500 stocks and SPY into memory. "GetYahooData"
+1. Use liburl to retrieve historical price data from Yahoo Finance: A function retrieves adjusted close prices for selected S&P 500 stocks and SPY into memory. "GetYahooData"
 
 2. Create a set of Classes such as class for stock to handle EPS estimate and price information. "Stock"
 
